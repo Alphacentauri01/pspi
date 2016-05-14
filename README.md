@@ -20,7 +20,7 @@ Nasze projekty:
 1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
 1. [Aleksandra Bemke](https://github.com/abemke).
 1. [Kasia Idziak](https://github.com/idzionek).
-1. [D Lachowicz](https://github.com/Alphacentauri01).
+1. [D Lachowicz](https://github.com/Alphacentauri01).[Strona Darka](http://alphacentauri01.github.io/Notatki-do-herbatki01/)
 1. [Michał Lewandowski](https://github.com/lewand16).
 1. SL Majewska
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
